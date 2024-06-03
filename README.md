@@ -1,2 +1,3 @@
 # Calculator
-First repository
+First repository <br> Author-Krupa Thakkar
+
